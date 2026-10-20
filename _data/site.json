@@ -1,16 +1,16 @@
 {
-  "title": "Retroweird",
-  "description": "A maximalist retro blog theme for Eleventy - Make the web weird again!",
+  "title": "张子龙的个人博客",
+  "description": "记录生活、音乐、工作，并且欢迎每一个浏览的人！",
   "url": "https://retroweird.netlify.app",
   "author": {
-    "name": "Zeon",
+    "name": "张子龙",
     "email": "chiiismyown@gmail.com",
     "url": "https://brennanbrown.ca",
-    "bio": "Web designer, cat enthusiast, 90s kid",
+    "bio": "🇨🇳 00后 剪辑师 建筑深化师 ",
     "avatar": "/images/avatar.svg",
     "location": "The Internet",
     "mood": "nostalgic",
-    "icqNumber": "123-456-789"
+    "icqNumber": "+86 11111111111"
   },
   "theme": "default",
   "modules": {
